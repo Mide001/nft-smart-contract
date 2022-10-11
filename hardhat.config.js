@@ -1,8 +1,8 @@
 require("@nomicfoundation/hardhat-toolbox");
 
 
-const ALCHEMY_API_KEY = "6E_CVYpd_td1FCMtnPzjZeCJduaIvQ9z";
-const GOERLI_PRIVATE_KEY = "d1c3c102915d6a68df8c42482f609abf821aa9d043f29e6be025a905cbb3d85c";
+const ALCHEMY_API_KEY = "";
+const GOERLI_PRIVATE_KEY = "";
 
 
 /** @type import('hardhat/config').HardhatUserConfig */
